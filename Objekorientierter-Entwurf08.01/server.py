@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 from pydantic import ValidationError
 from model import Spieler
-
+import json
+import os
 
 app = Flask(__name__)
 
@@ -50,6 +51,7 @@ def attributes():
     remote_addr: {request.remote_addr }")
     '''
 
+spieler_liste = []
 
 # Route zum Spieler
 @app.route("/Spieler", methods=["POST"])
@@ -58,6 +60,11 @@ def hande_Spieler():
     try:
         data = request.get_json()
         spieler = Spieler(**data)
+        spieler_liste.append(spieler)
+        with open("spieler.json", "w", encoding="utf-8") as f:
+            json.dump([s.model_dump() for s in spieler_liste], f, ensure_ascii=False, indent=4)
+
+        print("✅ Spieler wurden in 'spieler.json' gespeichert.")
         return jsonify({
             "status": "ok",
             "message": "Spieler erfolgreich erstellt",
@@ -70,5 +77,21 @@ def hande_Spieler():
             "details": e.errors()
         }), 400
     
+
+dateiname = "spieler.json"
+
+if os.path.exists(dateiname):
+    with open(dateiname, "r", encoding="utf-8") as f:
+        daten = json.load(f)
+    spieler_liste = [Spieler(**s) for s in daten]
+    print("📂 Geladene Spieler:")
+    for s in spieler_liste:
+        print(s)
+else:
+    print(f"⚠️ Datei '{dateiname}' wurde nicht gefunden.")
+    print("Es wird eine leere Spielerliste erstellt.")
+    spieler_liste = []
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=12345)  # Server starten
