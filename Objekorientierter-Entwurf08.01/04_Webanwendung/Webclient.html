@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Spieler erfassen</title>
+</head>
+<body>
+    <h1>Neuen Spieler erfassen</h1>
+
+    <!-- Formular -->
+    <form id="spielerForm">
+        <label for="Name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="jahrgang">Jahrgang:</label>
+        <input type="number" id="jahrgang" name="jahrgang" min="16" max="5000" required><br><br>
+
+        <label for="staerke">Stärke :</label>
+        <input type="number" id="staerke" name="staerke" min="0" max="10" required><br><br>
+
+        <label for="torschuss">Torschuss :</label>
+        <input type="number" id="torschuss" name="torschuss" min="1" max="10" required><br><br>
+        
+
+        <button type="submit">Absenden</button>
+    </form>
+
+    <h3>Antwort des Servers:</h3>
+    <pre id="serverAntwort"></pre>
+
+    <!-- JavaScript folgt unten -->
+    <script src="client.js"></script>
+</body>
+</html>
