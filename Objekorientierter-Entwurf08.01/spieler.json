@@ -22,5 +22,35 @@
         "jahrgang": 2005,
         "staerke": 1,
         "torschuss": 1
+    },
+    {
+        "name": "Sokrates",
+        "jahrgang": 16,
+        "staerke": 2,
+        "torschuss": 2
+    },
+    {
+        "name": "Sokrates",
+        "jahrgang": 18,
+        "staerke": 3,
+        "torschuss": 3
+    },
+    {
+        "name": "Sokrates",
+        "jahrgang": 18,
+        "staerke": 2,
+        "torschuss": 2
+    },
+    {
+        "name": "Sokrates",
+        "jahrgang": 18,
+        "staerke": 3,
+        "torschuss": 3
+    },
+    {
+        "name": "Sophenis",
+        "jahrgang": 18,
+        "staerke": 3,
+        "torschuss": 3
     }
 ]

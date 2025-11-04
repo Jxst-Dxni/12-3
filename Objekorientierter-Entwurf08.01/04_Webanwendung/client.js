@@ -10,7 +10,7 @@ document.getElementById("spielerForm").addEventListener("submit", async function
     };
 
     // Daten an den Server senden
-    const response = await fetch("https://literate-happiness-pjp75w97g5j926wxq-12345.app.github.dev/spieler", {
+    const response = await fetch("https://literate-happiness-pjp75w97g5j926wxq-12345.app.github.dev/Spieler", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

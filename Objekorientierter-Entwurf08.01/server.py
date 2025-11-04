@@ -3,8 +3,10 @@ from pydantic import ValidationError
 from model import Spieler
 import json
 import os
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Route für die Hauptseite
 @app.route('/')
