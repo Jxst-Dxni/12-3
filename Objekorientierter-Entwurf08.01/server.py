@@ -62,7 +62,7 @@ def hande_Spieler():
     try:
         data = request.get_json()
         spieler = Spieler(**data)
-        spieler_liste.append(spieler)
+        spieler_liste.append(spieler)       #65 bis 67 in Arbeit nicht benötigt.
         with open("spieler.json", "w", encoding="utf-8") as f:
             json.dump([s.model_dump() for s in spieler_liste], f, ensure_ascii=False, indent=4)
 
@@ -79,7 +79,7 @@ def hande_Spieler():
             "details": e.errors()
         }), 400
     
-
+#-------------------------------------------------------UntererTeil nicht benötigt für Arbeit
 dateiname = "spieler.json"
 
 if os.path.exists(dateiname):
@@ -93,7 +93,7 @@ else:
     print(f"⚠️ Datei '{dateiname}' wurde nicht gefunden.")
     print("Es wird eine leere Spielerliste erstellt.")
     spieler_liste = []
-
+#---------------------------------------------------------------
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=12345)  # Server starten
