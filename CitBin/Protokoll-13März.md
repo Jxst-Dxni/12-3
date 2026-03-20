@@ -129,6 +129,7 @@ Stephan Strittmatter: stephan.strittmatter@sybit.de
 Andre Sommer: andre.sommer@sybit.de  
 Samira Bieler: samira.bieler@singen.de  
 Herr Laber: karl.laber@hgs-singen.online  
+Herr Martin: stefan.martin@hgs-singen.online  
 Sofia Jäger: so.jaeger@hgs-singen.online  
 Daniel Saracoglu: d.saracoglu@hgs-singen.online  
 
