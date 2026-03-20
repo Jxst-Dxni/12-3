@@ -133,7 +133,7 @@ Herr Martin: stefan.martin@hgs-singen.online
 Sofia Jäger: so.jaeger@hgs-singen.online  
 Daniel Saracoglu: d.saracoglu@hgs-singen.online  
 
-# 5. Spercher & Mitglieder der jeweiligen Gruppen:  
+# 5. Sprecher & Mitglieder der jeweiligen Gruppen:  
 
 **Software:** Felix (GS), Jannick (stellv. GS), Theodor (TM), Marlon (TM)  
 **Hardware:** Eray (GS), Lukas (stellv. GS)  
