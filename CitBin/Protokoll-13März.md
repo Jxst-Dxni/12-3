@@ -84,12 +84,12 @@ Außen eine Halterung anbringen in den passanten die Flaschen abstellen(Mülleim
 	QR-Code ist zeitgemäßer als Flyer
 	QR-Code Aufkleber.  
 
-# 5. Rückblick/ Ausblick: Besuch bei Firma ifm:  
+# 3. Rückblick/ Ausblick: Besuch bei Firma ifm:  
 -	Besuch vor 3 Wochen
 -	Problematik der Sensorplatzierung im Mülleimer diskutiert
 -	Es gibt eine OpenSource Software (auch in GitHub anwendbar)  
 
-# 3. Organisation:  
+# 4. Organisation:  
 
 - **Kontaktpersonen:**  
     Hauptansprechpartnerin: Samira Bieler  
@@ -123,7 +123,7 @@ Außen eine Halterung anbringen in den passanten die Flaschen abstellen(Mülleim
 - Gruppeneinschätzung wird auch mit Stadt besprochen/ eingeschätzt.  
 
   
-# 4. Kontakdaten:  
+# 5. Kontakdaten:  
 
 Stephan Strittmatter: stephan.strittmatter@sybit.de  
 Andre Sommer: andre.sommer@sybit.de  
@@ -133,7 +133,7 @@ Herr Martin: stefan.martin@hgs-singen.online
 Sofia Jäger: so.jaeger@hgs-singen.online  
 Daniel Saracoglu: d.saracoglu@hgs-singen.online  
 
-# 5. Sprecher & Mitglieder der jeweiligen Gruppen:  
+# 6. Sprecher & Mitglieder der jeweiligen Gruppen:  
 
 **Software:** Felix (GS), Jannick (stellv. GS), Theodor (TM), Marlon (TM)  
 **Hardware:** Eray (GS), Lukas (stellv. GS)  
