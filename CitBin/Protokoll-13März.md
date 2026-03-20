@@ -13,7 +13,10 @@
 **Schüler:**  
 - Eray, Lukas, Irakli, Huzaifa, Marius  
 - Theodor, Felix, Jannick, Marlon  
-- Sofia, Daniel
+- Sofia, Daniel  
+
+## Protokollanten:  
+Sofia.Jäger, Daniel.Saracoglu
 
 ## 1. Rückblick Ergebnisse 2025  
 - Testphase: Ausprobiert, welche Technologie am besten funktioniert  
