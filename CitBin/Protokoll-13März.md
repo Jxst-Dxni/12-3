@@ -1,5 +1,20 @@
 # IT-Projekt CitBin – Protokoll, 13.März  
 
+## Teilnehmer:  
+**Von der Stadt:**  
+- Fr.Bieler  
+
+**Lehrer:**  
+- Hr.Laber  
+
+**Sybit:**  
+- Hr. Strittmatter  
+
+**Schüler:**  
+- Eray, Lukas, Irakli, Huzaifa, Marius  
+- Theodor, Felix, Jannick, Marlon  
+- Sofia, Daniel
+
 ## 1. Rückblick Ergebnisse 2025  
 - Testphase: Ausprobiert, welche Technologie am besten funktioniert  
 
@@ -23,7 +38,7 @@ Mülleimerverwaltung (hinzufügen, löschen, bearbeiten, Status, Update, Standor
 ## LoRa-WAN als Netzwerk:
 Wird akutell noch verwendet
 Bricht zusammen, bei zu vielen Mülleimern
- soll ersetzt werden durch Mioty**  
+ soll ersetzt werden durch Mioty  
 ### Mioty als Netzwerk: Weniger Störeinflüsse & läuft stabilder.  
 
  - Empfänger der Daten: Indoor Gateway  
