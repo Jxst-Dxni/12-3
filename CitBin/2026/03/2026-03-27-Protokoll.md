@@ -29,22 +29,21 @@
 
 ### 3. Sinvolle Nutzung:  
 
-- Es macht Sinn später die Sensoren an abgelegene Mülleimer zu Installieren, an Fußgänger Zonen oder in der Innenstadt macht es weniger Sinn.
+- Es macht Sinn später die Sensoren an abgelegene Mülleimer zu Installieren, an Fußgänger Zonen oder in der Innenstadt macht es weniger Sinn.  
+
+### Inhatlt:  
+- Neue Ziele für jede Gruppe vereinbart und diese an das Board in GitHub gestellt.
 
 ---
 ## Ziele bis zur nächsten Sitzung:
-### 1. Betrieb:
-- 
-### 2. Hardware:
-- 
-### 3. Software:
-- 
-### 4. Projektleitung:
-- 
-### 5. Allgemein:
-- Die älteren Mülleimer kann man per Hand öffnen. Sensor leicht zum klauen
+- Alle Ziele wurden an das GitHub Board geheftet. 
+- Siehe GitHub  Board im Projekt CitBin für weitere Informationen.
+---
+## 5. Allgemein:
+- Die älteren Mülleimer kann man per Hand öffnen.   
+- Sensor leicht zum klauen
 - Provisorischer Test kann man mit Kleber machen  
-- 
+
 
 
 
