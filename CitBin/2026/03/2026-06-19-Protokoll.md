@@ -17,22 +17,15 @@
   
 ---
 ## Aktueller Stand/ Rückblick seit der letzten Sitzung:
-### 1. Betrieb:
-- 
-### 2. Hardware:
-- 
-### 3. Software:
-- 
-### 4. Projektleitung:
-- 
+
 ### 5. Allgemein:
--   Die neuen Sensoren wurden bestellt und sind
+-   Die neuen Sensoren wurden bestellt und sind angekommen
 
 ---
 ## Bearbeiteter Inhalt:
 
 ### 1. Betrieb:
-- 
+-       Eine Beschreibung angefangen zu erstellen wie man einen Sensor in die Website intigriert.
 ### 2. Hardware:
 -       Neue Senosren beschriftet
         Sensoren Reichweite mit kleiner Antenne und offenem    Fenster getestet.  
